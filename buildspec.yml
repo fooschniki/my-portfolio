@@ -9,5 +9,5 @@ artifacts:
      - index.html
      - favicon.ico
      - JakeSkinnerResumeITArchitect.pdf
-     - sytles/main.css
+     - styles/main.css
      - images/*
